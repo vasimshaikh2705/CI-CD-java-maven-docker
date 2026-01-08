@@ -1,3 +1,10 @@
+# 🚀 Java CI/CD Pipeline Implementation
+
+> **Architect's Note:** This project demonstrates a production-standard CI/CD flow for Java applications.
+> It highlights the integration of **Jenkins** (orchestration), **Docker** (containerization), and **Maven** (build automation) to reduce manual deployment efforts.
+
+---
+
 # DevOps-Example
 This is a sample Spring Boot Application, used to explain the Jenkins pipeline, in creating a full CI/CD flow using docker too.
 
